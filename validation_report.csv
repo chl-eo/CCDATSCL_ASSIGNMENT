@@ -1,0 +1,4 @@
+Rule,Violations,Description
+Price must be positive,11,11 listings have a price less than or equal to 0.
+Host ID should not be null,0,0 listings have a null host ID.
+Minimum nights must be ≥ 1,0,0 listings have minimum nights less than 1.
